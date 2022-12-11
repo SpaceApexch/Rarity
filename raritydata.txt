@@ -1,0 +1,130 @@
+
+Trait type: BACKGROUND
+{ trait: 'Black', chance: '5', occurrence: '4% out of 100%' }
+{ trait: 'Blue L', chance: '14', occurrence: '14% out of 100%' }
+{ trait: 'Blue X', chance: '12', occurrence: '13% out of 100%' }
+{ trait: 'Grey', chance: '5', occurrence: '5% out of 100%' }
+{ trait: 'Light Brown',
+  chance: '16',
+  occurrence: '18% out of 100%' }
+{ trait: 'Purple', chance: '16', occurrence: '15% out of 100%' }
+{ trait: 'Red', chance: '16', occurrence: '15% out of 100%' }
+{ trait: 'Yelow', chance: '16', occurrence: '17% out of 100%' }
+
+Trait type: BASE
+{ trait: 'Ape Black',
+  chance: '25',
+  occurrence: '26% out of 100%' }
+{ trait: 'Ape Blue',
+  chance: '25',
+  occurrence: '24% out of 100%' }
+{ trait: 'Ape Brown',
+  chance: '25',
+  occurrence: '24% out of 100%' }
+{ trait: 'Ape Purple',
+  chance: '25',
+  occurrence: '26% out of 100%' }
+
+Trait type: CLOTHES
+{ trait: 'CH Shirt',
+  chance: '11',
+  occurrence: '12% out of 100%' }
+{ trait: 'Cookie Shirt',
+  chance: '11',
+  occurrence: '12% out of 100%' }
+{ trait: 'Cool Shirt',
+  chance: '11',
+  occurrence: '10% out of 100%' }
+{ trait: 'Dope Shirt',
+  chance: '11',
+  occurrence: '12% out of 100%' }
+{ trait: 'Kid Shirt',
+  chance: '11',
+  occurrence: '11% out of 100%' }
+{ trait: 'Love Shirt',
+  chance: '11',
+  occurrence: '11% out of 100%' }
+{ trait: 'OK Shirt', chance: '10', occurrence: '9% out of 100%' }
+{ trait: 'Orange Shirt',
+  chance: '10',
+  occurrence: '9% out of 100%' }
+{ trait: 'Rainbow Shirt',
+  chance: '4',
+  occurrence: '5% out of 100%' }
+{ trait: 'Sol Shirt',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Space Ape', chance: '1', occurrence: '1% out of 100%' }
+
+Trait type: EYES
+{ trait: 'Blue Eye', chance: '7', occurrence: '8% out of 100%' }
+{ trait: 'Brown Eye', chance: '7', occurrence: '7% out of 100%' }
+{ trait: 'Chill Glasses',
+  chance: '7',
+  occurrence: '6% out of 100%' }
+{ trait: 'Cool Glasses',
+  chance: '7',
+  occurrence: '7% out of 100%' }
+{ trait: 'Dark Grey', chance: '7', occurrence: '8% out of 100%' }
+{ trait: 'Error Glasses',
+  chance: '7',
+  occurrence: '7% out of 100%' }
+{ trait: 'Green Eyes',
+  chance: '7',
+  occurrence: '6% out of 100%' }
+{ trait: 'Purple Eye',
+  chance: '7',
+  occurrence: '7% out of 100%' }
+{ trait: 'Red Eye', chance: '7', occurrence: '7% out of 100%' }
+{ trait: 'Shit Glasses',
+  chance: '2',
+  occurrence: '2% out of 100%' }
+{ trait: 'Trieye Green',
+  chance: '7',
+  occurrence: '8% out of 100%' }
+{ trait: 'Trieye Grey',
+  chance: '7',
+  occurrence: '8% out of 100%' }
+{ trait: 'Trieye Purple',
+  chance: '7',
+  occurrence: '6% out of 100%' }
+{ trait: 'Trieye Yellow',
+  chance: '7',
+  occurrence: '7% out of 100%' }
+{ trait: 'Yellow Eye',
+  chance: '7',
+  occurrence: '7% out of 100%' }
+
+Trait type: HEAD
+{ trait: 'Blue Beanie',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Blue Fire',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Blue Headphones',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Cowboy Hat',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Crown Ape', chance: '3', occurrence: '3% out of 100%' }
+{ trait: 'God', chance: '3', occurrence: '3% out of 100%' }
+{ trait: 'Green Headphones',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Hat Purple',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Hat Rainbow',
+  chance: '4',
+  occurrence: '4% out of 100%' }
+{ trait: 'Orange Beanie',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Pirate Ape',
+  chance: '10',
+  occurrence: '10% out of 100%' }
+{ trait: 'Red Fire',
+  chance: '10',
+  occurrence: '10% out of 100%' }
